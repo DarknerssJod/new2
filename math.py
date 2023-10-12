@@ -1,0 +1,15 @@
+#math module
+import math
+print("math.ceil(-45.17): ", math.ceil(-45.17))
+print("math.ceil(-45.77): ", math.ceil(-45.77))
+print("math.fabs(-45.17): ", math.fabs(-45.17))
+print("math.floor(-45.17): ", math.floor(-45.17))
+print("math.floor(-45.77): ", math.floor(-45.77))
+print("math.log10(100.12): ", math.log10(100.12))
+print("math.pow(100,2): ", math.pow(100,2))
+print("math.sqrt(144): ", math.sqrt(144))
+print("math.cos(90): ", math.cos(90))
+print("math.tan(90): ", math.tan(90))
+print("math.factorial(5): ", math.factorial(5))
+print("round(90.23456, 2): ", round(80.23456,2))
+print("round(100.000056, 3): ",round(100.000056, 3))
