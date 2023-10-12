@@ -1,0 +1,12 @@
+import array as a
+arr = a.array('i',[20,40,60,80,100])
+print(arr)
+arr.insert(2,50)
+print(arr)
+print("First element",arr[0])
+print("Last element",arr[-1])
+print("Second element",arr[1])
+print("Third to fifth",arr[2:5])
+print("From beginning to 3rd",arr[:3])
+print("Fourth to end",arr[3:])
+print("Start to end",arr[:])
